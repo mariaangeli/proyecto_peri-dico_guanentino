@@ -1,0 +1,20 @@
+.ad {
+    position: fixed;
+    top: 0;
+    height: 90%;
+    width: 100px; /* Ancho del anuncio, ajusta según necesites */
+}
+
+.left {
+    left: 0;
+}
+
+.right {
+    right: 0;
+}
+
+.content {
+    margin: 3 auto;
+    max-width: 90px; /* Ancho máximo del contenido principal */
+    padding: 10px;
+}
